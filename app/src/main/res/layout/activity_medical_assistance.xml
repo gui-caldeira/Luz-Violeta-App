@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/editType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tipo de assistência"/>
+
+    <EditText
+        android:id="@+id/editDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Data (dd/mm/yyyy)"
+        android:inputType="date"
+        android:layout_marginTop="12dp"/>
+
+    <Button
+        android:id="@+id/btnSaveAssistance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Salvar"
+        android:layout_marginTop="20dp"/>
+    <Button
+        android:id="@+id/btnHelpSite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pedir Ajuda (Ligue 180)"
+        android:layout_marginTop="12dp" />
+</LinearLayout>
