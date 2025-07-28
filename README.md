@@ -20,7 +20,7 @@ Aplicativo Android feito em Java, voltado para o apoio a mulheres vítimas de vi
 
 ## 📂 Estrutura geral
 
-- `/model`: classes de dados (Usuário, Denúncia, Atendimento)
+- `/model`: classes de dados (Usuário, Denúncia)
 - `/controller`: lógica de banco e regras de negócio
 - `/view`: telas do app (login, cadastro, lista de denúncias, etc.)
 - `/layout`: arquivos XML com o design visual
