@@ -25,8 +25,6 @@ Aplicativo Android feito em Java, voltado para o apoio a mulheres vítimas de vi
 - `/view`: telas do app (login, cadastro, lista de denúncias, etc.)
 - `/layout`: arquivos XML com o design visual
 
-## 📸 Telas (em breve)
-
 ## 👨‍💻 Autor
 
 **Guilherme Caldeira Gumiero**  
